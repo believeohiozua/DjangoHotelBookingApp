@@ -1,10 +1,10 @@
-# BelChapHotels
+# DjangoHotelBookingApp
 
 This is an online hotel booking web application build with python's Django Framework
 *NOTE:* This application is hosted live at 
 <a href="http://believeohiozua.pythonanywhere.com" target="_blank" >believeohiozua.pythonanywhere.com</a>
       
- ![alt text](https://raw.githubusercontent.com/believeohiozua/BelChapHotels/master/media/flowchart.jpg)
+ ![alt text](https://raw.githubusercontent.com/believeohiozua/DjangoHotelBookingApp/master/media/flowchart.jpg)
 
     
 ## WEB PAGES
